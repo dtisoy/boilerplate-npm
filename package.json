@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-    "author":"Daniel Tisoy"
+    "author": "Daniel Tisoy",
+    "description": "This is my projecto of backend from FreeCodeCamp"
 }
