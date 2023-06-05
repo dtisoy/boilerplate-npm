@@ -13,5 +13,6 @@
 	},
     "author": "Daniel Tisoy",
     "description": "This is my project of backend from FreeCodeCamp",
-    "keywords": ["freecodecamp", "first", "node", "project"]
+    "keywords": ["freecodecamp", "first", "node", "project"],
+    "license": "MIT"
 }
