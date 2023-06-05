@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
     "author": "Daniel Tisoy",
-    "description": "This is my projecto of backend from FreeCodeCamp"
+    "description": "This is my project of backend from FreeCodeCamp",
+    "keywords": ["freecodecamp", "first", "node", "project"]
 }
