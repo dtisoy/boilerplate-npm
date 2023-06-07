@@ -14,5 +14,6 @@
     "author": "Daniel Tisoy",
     "description": "This is my project of backend from FreeCodeCamp",
     "keywords": ["freecodecamp", "first", "node", "project"],
-    "license": "MIT"
+    "license": "MIT",
+    "version": "0.0.1"
 }
